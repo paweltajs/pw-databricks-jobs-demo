@@ -1,0 +1,2 @@
+[console_scripts]
+run_sales = pw_databricks_demo.job:main

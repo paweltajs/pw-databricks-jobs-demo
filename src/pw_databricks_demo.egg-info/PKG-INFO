@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: pw_databricks_demo
+Version: 0.1.0
+Summary: Minimalne demo 3 typow zadan Python w Databricks Jobs
+Requires-Python: ==3.12.*
