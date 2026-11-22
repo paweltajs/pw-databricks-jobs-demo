@@ -20,6 +20,7 @@ def calculate_sales():
 
 def main():
     print(json.dumps(calculate_sales(), indent=2))
+    print("Zadanie wykonane w Pythonie w Databricks!")
 
 
 if __name__ == "__main__":
